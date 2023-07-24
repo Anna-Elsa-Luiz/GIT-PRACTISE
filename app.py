@@ -11,3 +11,7 @@ def multiplication(a,b,c):
 def subtraction(a,b,c):
     print("Subtraction values:")
     return a - b - c
+
+def  division(a,b):
+    print("Division values")
+    return a / b
