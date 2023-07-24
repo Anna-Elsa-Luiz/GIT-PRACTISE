@@ -6,7 +6,6 @@ def addition(a,b,c):
     
 def multiplication(a,b,c):
     print("Multiplied values:")
-
     return a * b * c
 
 def subtraction(a,b,c):
